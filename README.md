@@ -44,4 +44,4 @@ void loop() {
 }
 ## Circuit Photo
 
-![ESP32 LED Sine Wave Circuit](led_sinewave_circuit.png)
+![ESP32 LED Sine Wave Circuit](led_sinewave_circuit.jpeg)
