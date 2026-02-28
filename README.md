@@ -3,6 +3,24 @@
 This project demonstrates controlling the **brightness of 4 LEDs in a sine wave pattern** using an ESP32.  
 A potentiometer is used to adjust the wave speed, and a **phase difference** is applied between LEDs to create a flowing wave effect.
 
+## Key Features
+
+| Feature | Description |
+|---------|-------------|
+| Potentiometer-controlled speed | Adjust the LED wave speed in real-time |
+| Phase difference between LEDs | 90° phase shift creates flowing wave effect |
+| Sine wave brightness control | LED brightness follows a sine wave pattern |
+
+## Hardware Required
+
+| Component | Quantity |
+|-----------|---------|
+| ESP32 development board | 1 |
+| LED | 4 |
+| Resistor (appropriate for LEDs) | 4 |
+| Potentiometer | 1 |
+| Breadboard & jumper wires | As needed |
+
 ## Code
 
 ```cpp
