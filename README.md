@@ -42,3 +42,6 @@ void loop() {
 
   delay(10);
 }
+## Circuit Photo
+
+![ESP32 LED Sine Wave Circuit](led_sinewave_circuit.png)
